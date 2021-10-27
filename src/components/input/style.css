@@ -1,0 +1,28 @@
+.Form {
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    width: 30%;
+    background: rgb(255, 244, 241);
+    color: white;
+}
+
+.Form div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    width: 90%;
+    margin: 10px;
+
+}
+.Form div input{ 
+    padding: 10px;
+    outline: none;
+    border: 4px solid;
+    border-image: linear-gradient(227.91deg, #106AF2 0%, #00E0FF 100%) 1;
+
+}
+.Form div button {
+}
